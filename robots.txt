@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fisioterapeutaanajulia.com.br/sitemap.xml
